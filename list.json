@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "Jay Contreras",
+    "contact": "0917-123-4567",
+    "email": "kamikazeegod@gmail.com"
+  },
+
+  {
+    "id": "2",
+    "name": "Jason Astete",
+    "contact": "0920-600-2222",
+    "email": "jason_the_menace@gmail.com"
+  },
+
+  {
+    "id": "3",
+    "name": "Mikki Jill",
+    "contact": "0920-600-2222",
+    "email": "keyboardista@gmail.com"
+  },
+
+  {
+    "id": "4",
+    "name": "Jose Luis Linao",
+    "contact": "0917-123-4456",
+    "email": "kamikazeeprince@gmail.com"
+  },
+
+  {
+    "id": "5",
+    "name": "Allan Burdeos",
+    "contact": "0917-666-6666",
+    "email": "allan_burdeos@gmail.com"
+  },
+
+  {
+    "id": "6",
+    "name": "Mark Estacio",
+    "contact": "0917-666-6666",
+    "email": "mark_estacio@gmail.com"
+  },
+
+  {
+    "id": "7",
+    "name": "Juanelli Lubiano",
+    "contact": "0917-888-7777",
+    "email": "kamikazeeprincess@gmail.com"
+  },
+
+  {
+    "id": "8",
+    "name": "Led Zeppelin Tuyay",
+    "contact": "0917-444-1234",
+    "email": "led_zt@gmail.com"
+  },
+
+  {
+    "id": "9",
+    "name": "Sep Rono",
+    "contact": "0917-444-1234",
+    "email": "sep_of_typecast@gmail.com"
+  }
+]
